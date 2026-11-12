@@ -12,6 +12,18 @@ This project was built for IBM's *Java Development Capstone Project* on Coursera
 | Doctor | Sign in, view scheduled appointments and patient records, and add or view prescriptions. |
 | Administrator | Sign in and manage the clinic's list of doctors. |
 
+## Screenshots
+
+![Patient portal with a doctor directory, availability filters, and booking controls](docs/screenshots/doctor-directory.jpg)
+
+*Patient portal with fictional doctors and example appointment slots.*
+
+<p>
+  <a href="docs/screenshots/role-selection.jpg"><img src="docs/screenshots/role-selection.jpg" alt="Smart Clinic entry screen with Admin, Patient, and Doctor roles" width="65%"></a>
+</p>
+
+*Entry screen for the three clinic roles.*
+
 ## How it works
 
 - **Backend** — Java 17, Spring Boot, Spring MVC, Spring Data JPA, Spring Data MongoDB, and JWT-based login.
